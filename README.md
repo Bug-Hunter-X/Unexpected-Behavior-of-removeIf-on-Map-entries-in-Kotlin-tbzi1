@@ -1,0 +1,1 @@
+This repository demonstrates a subtle difference in how `removeIf` works with `List` and `Map.entries` in Kotlin. The `bug.kt` file shows code that removes even numbers from a list and a map, but the behavior with the map may be unexpected. The `bugSolution.kt` file provides a solution to ensure consistent behavior.
